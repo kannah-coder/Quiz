@@ -1,14 +1,12 @@
-#  Quiz Game (Python)
+# Quiz Game (Python)
 
 This is a simple **Python Quiz Game** made for fun and learning!  
 The game asks you basic computer-related questions and keeps score.
 
 ---
 
-##  How to Run
-1. Clone this repository:
-   ```
-#Example   
+## How to Run with an example
+   
 Welcome to the quiz!
 Do you wanna play this game? yes
 Okay, let's play :)
